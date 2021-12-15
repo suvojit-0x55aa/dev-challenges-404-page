@@ -62,5 +62,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@your-username](https://github.com/suvojit-0x55aa})
-- Twitter [@your-twitter](https://twitter.com/_smanna})
+- GitHub [@suvojit-0x55aa](https://github.com/suvojit-0x55aa})
+- Twitter [@_smanna](https://twitter.com/_smanna})
